@@ -1,6 +1,7 @@
 # Projek-Akhir-Rumah-Sakit
 Kelompok 6 Projek Akhir ASD Rumah Sakit
 
+
 	Seiring dengan era digital yang terus berkembang maka berbagai sektor bidang juga harus dapat mengikuti arus tersebut. Begitupun dengan bidang kesehatan, dunia kesehatan tidak terlepas dari teknologi komputer dan teknologi informasi. Pengolahan data medis yang dahulu dilakukan secara manual, saat ini dibuat menjadi otomatis dengan sistem informasi untuk mempercepat proses kerja para tenaga medis dalam memperoleh data. Pengolahan data secara manual dirasa masi kurang efisien karena memakan waktu yang lama dan juga memungkinkan terjadinya human error. Ditambah lagi dengan jumlah pasien yang relatif banyak per hari dan tenaga administrasi Rumah Sakit yang terbatas dapat menyebabkan adanya duplikasi data rekam medis pasien yang tidak terkontrol, sehingga kemungkinan terjadinya kesalahan sangat besar.
   
   Rumah sakit Sebagai salah satu institusi pelayanan umum yang memiliki tugas penting dalam menyelamatkan nyawa pasien. Oleh karena itu, rumah sakit membutuhkan keberadaan suatu sistem informasi pengelolaan data yang akurat, efektif, serta efisien. Maka dari permasalahan tersebut dirancanglah sebuah program dimana program tersebut dapat memproses data. Dengan menggunakan sebuah program diharapkan dapat memberikan efisiensi waktu dan efektifitas hal yang nantinya akan dilakukan oleh admin dan pasien.
